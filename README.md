@@ -5,8 +5,9 @@
 
 ## What I have learnt in this project?
 
+- Nav bar design
 - Product display page design.
-- using CSS positions
+- Using CSS positions
 
 ## Time taken to finish this project
 - 3-4 hrs
